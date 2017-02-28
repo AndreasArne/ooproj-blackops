@@ -1,0 +1,120 @@
+[15284:15048:0213/125241:VERBOSE1:crash_service_main.cc(76)] Session start. cmdline is [--reporter-url=https://crashreporter.atom.io --application-name=Atom --v=1]
+[15284:15048:0213/125241:VERBOSE1:crash_service.cc(142)] window handle is 000C0780
+[15284:15048:0213/125241:VERBOSE1:crash_service.cc(284)] pipe name is \\.\pipe\Atom Crash Service
+dumps at C:\cygwin64\tmp\Atom Crashes
+[15284:15048:0213/125241:VERBOSE1:crash_service.cc(288)] checkpoint is C:\cygwin64\tmp\Atom Crashes\crash_checkpoint.txt
+server is https://crashreporter.atom.io
+maximum 128 reports/day
+reporter is electron-crash-service
+[15284:15048:0213/125241:ERROR:crash_service.cc(295)] could not start dumper
+[11792:10584:0213/125306:VERBOSE1:crash_service_main.cc(76)] Session start. cmdline is [--reporter-url=https://crashreporter.atom.io --application-name=Atom --v=1]
+[11792:10584:0213/125306:VERBOSE1:crash_service.cc(142)] window handle is 001B0760
+[11792:10584:0213/125306:VERBOSE1:crash_service.cc(284)] pipe name is \\.\pipe\Atom Crash Service
+dumps at C:\cygwin64\tmp\Atom Crashes
+[11792:10584:0213/125306:VERBOSE1:crash_service.cc(288)] checkpoint is C:\cygwin64\tmp\Atom Crashes\crash_checkpoint.txt
+server is https://crashreporter.atom.io
+maximum 128 reports/day
+reporter is electron-crash-service
+[11792:10584:0213/125306:ERROR:crash_service.cc(295)] could not start dumper
+[3520:14540:0221/134918:VERBOSE1:crash_service_main.cc(76)] Session start. cmdline is [--reporter-url=https://crashreporter.atom.io --application-name=Atom --v=1]
+[3520:14540:0221/134918:VERBOSE1:crash_service.cc(142)] window handle is 0006031C
+[3520:14540:0221/134918:VERBOSE1:crash_service.cc(284)] pipe name is \\.\pipe\Atom Crash Service
+dumps at C:\cygwin64\tmp\Atom Crashes
+[3520:14540:0221/134918:VERBOSE1:crash_service.cc(288)] checkpoint is C:\cygwin64\tmp\Atom Crashes\crash_checkpoint.txt
+server is https://crashreporter.atom.io
+maximum 128 reports/day
+reporter is electron-crash-service
+[3520:14540:0221/134918:ERROR:crash_service.cc(295)] could not start dumper
+[4472:8464:0221/140207:VERBOSE1:crash_service_main.cc(76)] Session start. cmdline is [--reporter-url=https://crashreporter.atom.io --application-name=Atom --v=1]
+[4472:8464:0221/140208:VERBOSE1:crash_service.cc(142)] window handle is 000C0056
+[4472:8464:0221/140208:VERBOSE1:crash_service.cc(284)] pipe name is \\.\pipe\Atom Crash Service
+dumps at C:\cygwin64\tmp\Atom Crashes
+[4472:8464:0221/140208:VERBOSE1:crash_service.cc(288)] checkpoint is C:\cygwin64\tmp\Atom Crashes\crash_checkpoint.txt
+server is https://crashreporter.atom.io
+maximum 128 reports/day
+reporter is electron-crash-service
+[4472:8464:0221/140208:VERBOSE1:crash_service_main.cc(92)] Ready to process crash requests
+[4472:2880:0221/140208:VERBOSE1:crash_service.cc(317)] client start. pid = 9084
+[4472:2880:0221/140213:VERBOSE1:crash_service.cc(317)] client start. pid = 8760
+[9396:9400:0221/140213:VERBOSE1:crash_service_main.cc(76)] Session start. cmdline is [--reporter-url=https://crashreporter.atom.io --application-name=Atom --v=1]
+[9396:9400:0221/140213:VERBOSE1:crash_service.cc(142)] window handle is 0013045C
+[9396:9400:0221/140213:VERBOSE1:crash_service.cc(284)] pipe name is \\.\pipe\Atom Crash Service
+dumps at C:\cygwin64\tmp\Atom Crashes
+[9396:9400:0221/140213:VERBOSE1:crash_service.cc(288)] checkpoint is C:\cygwin64\tmp\Atom Crashes\crash_checkpoint.txt
+server is https://crashreporter.atom.io
+maximum 128 reports/day
+reporter is electron-crash-service
+[9396:9400:0221/140213:ERROR:crash_service.cc(295)] could not start dumper
+[4472:2880:0221/145132:VERBOSE1:crash_service.cc(317)] client start. pid = 8504
+[4472:7652:0221/145132:VERBOSE1:crash_service.cc(325)] client end. pid = 8504
+[4472:2880:0221/145133:VERBOSE1:crash_service.cc(317)] client start. pid = 8512
+[4144:6544:0221/145133:VERBOSE1:crash_service_main.cc(76)] Session start. cmdline is [--reporter-url=https://crashreporter.atom.io --application-name=Atom --v=1]
+[4144:6544:0221/145133:VERBOSE1:crash_service.cc(142)] window handle is 000B053C
+[4144:6544:0221/145133:VERBOSE1:crash_service.cc(284)] pipe name is \\.\pipe\Atom Crash Service
+dumps at C:\cygwin64\tmp\Atom Crashes
+[4144:6544:0221/145133:VERBOSE1:crash_service.cc(288)] checkpoint is C:\cygwin64\tmp\Atom Crashes\crash_checkpoint.txt
+server is https://crashreporter.atom.io
+maximum 128 reports/day
+reporter is electron-crash-service
+[4144:6544:0221/145133:ERROR:crash_service.cc(295)] could not start dumper
+[4472:10120:0221/170415:VERBOSE1:crash_service.cc(325)] client end. pid = 8512
+[4472:2880:0221/172841:VERBOSE1:crash_service.cc(317)] client start. pid = 3220
+[4748:6064:0221/172841:VERBOSE1:crash_service_main.cc(76)] Session start. cmdline is [--reporter-url=https://crashreporter.atom.io --application-name=Atom --v=1]
+[4748:6064:0221/172841:VERBOSE1:crash_service.cc(142)] window handle is 001A0514
+[4748:6064:0221/172841:VERBOSE1:crash_service.cc(284)] pipe name is \\.\pipe\Atom Crash Service
+dumps at C:\cygwin64\tmp\Atom Crashes
+[4748:6064:0221/172841:VERBOSE1:crash_service.cc(288)] checkpoint is C:\cygwin64\tmp\Atom Crashes\crash_checkpoint.txt
+server is https://crashreporter.atom.io
+maximum 128 reports/day
+reporter is electron-crash-service
+[4748:6064:0221/172841:ERROR:crash_service.cc(295)] could not start dumper
+[4472:5760:0221/172842:VERBOSE1:crash_service.cc(325)] client end. pid = 3220
+[4472:2880:0221/172842:VERBOSE1:crash_service.cc(317)] client start. pid = 7384
+[9336:9536:0221/172842:VERBOSE1:crash_service_main.cc(76)] Session start. cmdline is [--reporter-url=https://crashreporter.atom.io --application-name=Atom --v=1]
+[9336:9536:0221/172842:VERBOSE1:crash_service.cc(142)] window handle is 0008051C
+[9336:9536:0221/172842:VERBOSE1:crash_service.cc(284)] pipe name is \\.\pipe\Atom Crash Service
+dumps at C:\cygwin64\tmp\Atom Crashes
+[9336:9536:0221/172842:VERBOSE1:crash_service.cc(288)] checkpoint is C:\cygwin64\tmp\Atom Crashes\crash_checkpoint.txt
+server is https://crashreporter.atom.io
+maximum 128 reports/day
+reporter is electron-crash-service
+[9336:9536:0221/172842:ERROR:crash_service.cc(295)] could not start dumper
+[4472:9144:0221/184030:VERBOSE1:crash_service.cc(325)] client end. pid = 7384
+[4472:7700:0223/090221:VERBOSE1:crash_service.cc(325)] client end. pid = 8760
+[4472:7700:0223/090221:VERBOSE1:crash_service.cc(325)] client end. pid = 9084
+[4472:7700:0223/090222:VERBOSE1:crash_service.cc(346)] zero clients. exiting
+[4472:8464:0223/090222:VERBOSE1:crash_service.cc(486)] session ending..
+[4472:8464:0223/090222:VERBOSE1:crash_service.cc(491)] clients connected :6
+clients terminated :6
+dumps serviced :0
+dumps reported :0
+[4472:8464:0223/090222:VERBOSE1:crash_service_main.cc(97)] Session end. return code is 0
+[12680:5892:0228/091954:VERBOSE1:crash_service_main.cc(76)] Session start. cmdline is [--reporter-url=https://crashreporter.atom.io --application-name=Atom --v=1]
+[12680:5892:0228/091954:VERBOSE1:crash_service.cc(142)] window handle is 00530524
+[12680:5892:0228/091954:VERBOSE1:crash_service.cc(284)] pipe name is \\.\pipe\Atom Crash Service
+dumps at C:\cygwin64\tmp\Atom Crashes
+[12680:5892:0228/091954:VERBOSE1:crash_service.cc(288)] checkpoint is C:\cygwin64\tmp\Atom Crashes\crash_checkpoint.txt
+server is https://crashreporter.atom.io
+maximum 128 reports/day
+reporter is electron-crash-service
+[12680:5892:0228/091954:VERBOSE1:crash_service_main.cc(92)] Ready to process crash requests
+[12680:6292:0228/091954:VERBOSE1:crash_service.cc(317)] client start. pid = 1120
+[12680:6292:0228/091955:VERBOSE1:crash_service.cc(317)] client start. pid = 5488
+[8432:7840:0228/091955:VERBOSE1:crash_service_main.cc(76)] Session start. cmdline is [--reporter-url=https://crashreporter.atom.io --application-name=Atom --v=1]
+[8432:7840:0228/091955:VERBOSE1:crash_service.cc(142)] window handle is 001103EC
+[8432:7840:0228/091955:VERBOSE1:crash_service.cc(284)] pipe name is \\.\pipe\Atom Crash Service
+dumps at C:\cygwin64\tmp\Atom Crashes
+[8432:7840:0228/091955:VERBOSE1:crash_service.cc(288)] checkpoint is C:\cygwin64\tmp\Atom Crashes\crash_checkpoint.txt
+server is https://crashreporter.atom.io
+maximum 128 reports/day
+reporter is electron-crash-service
+[8432:7840:0228/091955:ERROR:crash_service.cc(295)] could not start dumper
+[12680:6392:0228/092339:VERBOSE1:crash_service.cc(325)] client end. pid = 5488
+[12680:6392:0228/092339:VERBOSE1:crash_service.cc(325)] client end. pid = 1120
+[12680:6392:0228/092340:VERBOSE1:crash_service.cc(346)] zero clients. exiting
+[12680:5892:0228/092340:VERBOSE1:crash_service.cc(486)] session ending..
+[12680:5892:0228/092340:VERBOSE1:crash_service.cc(491)] clients connected :2
+clients terminated :2
+dumps serviced :0
+dumps reported :0
+[12680:5892:0228/092340:VERBOSE1:crash_service_main.cc(97)] Session end. return code is 0
